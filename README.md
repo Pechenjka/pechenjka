@@ -5,7 +5,7 @@
 * Пишу на React, планирую изучить другие фреймворки, Redux и TypeScript
 * Стараюсь писать чистый код
 
-Стек технологий:
+Стек технологий и инструменты:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=000000)
 ![React](https://img.shields.io/badge/React-1E90FF?style=plastic&logo=React&logoColor=000000)
@@ -15,9 +15,11 @@
 ![Express](https://img.shields.io/badge/Express-FF0000?style=plastic&logo=Express&logoColor=000000)
 ![NoSQL](https://img.shields.io/badge/NoSQL-0000FF?style=plastic&logoColor=000000)
 ![MongoDb](https://img.shields.io/badge/MongoDb-008080?style=plastic&logo=MongoDb&logoColor=000000&textColor=FF0000)
+![Git](https://img.shields.io/badge/Git-DAA520?style=plastic&logo=Git&logoColor=000000)
+![VSCode](https://img.shields.io/badge/VSCode-0000CD?style=plastic&logo=visual-studio-code&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-FF4500?style=plastic&logo=Postman&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-6A5ACD?style=plastic&logo=Figma&logoColor=000000)
-![Git](https://img.shields.io/badge/Git-DAA520?style=plastic&logo=Git&logoColor=000000)
+
  
 Статистика:
 
@@ -25,3 +27,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenjka&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
+
+Контакты:
+
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=000000)](https://t.me/lobachevpetr)
+[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=plastic&logo=Gmail&logoColor=FF0000)](mailto:ing.miller.vega@gmail.com)
+ 
