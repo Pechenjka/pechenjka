@@ -1,7 +1,7 @@
 ### Всем Привет 👋, меня зовут Петр 😃. 
 Я начинающий фронтенд-разработчик 🚀. 
 
-* Хочу устроится в перспективную компанию
+* Хочу развиваться во фронтенд-разработке
 * Пишу на React, планирую изучить другие фреймворки, Redux и TypeScript
 * Стараюсь писать чистый код
 
@@ -18,9 +18,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF4500?style=plastic&logo=Postman&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-6A5ACD?style=plastic&logo=Figma&logoColor=000000)
 ![Git](https://img.shields.io/badge/Git-DAA520?style=plastic&logo=Git&logoColor=000000)
-
+ 
 Статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pechenjka&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pechenjka&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenjka&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenjka&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
+
