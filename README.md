@@ -21,14 +21,14 @@
 ![Figma](https://img.shields.io/badge/Figma-6A5ACD?style=plastic&logo=Figma&logoColor=000000)
 
  
-Статистика:
+Моя статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pechenjka&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pechenjka&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenjka&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Контакты:
+Мои контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=000000)](https://t.me/lobachevpetr)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=plastic&logo=Gmail&logoColor=FF0000)](mailto:ing.miller.vega@gmail.com)
