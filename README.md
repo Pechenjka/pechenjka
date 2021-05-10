@@ -17,6 +17,7 @@
 ![MongoDb](https://img.shields.io/badge/MongoDb-008080?style=plastic&logo=MongoDb&logoColor=000000&textColor=FF0000)
 ![Git](https://img.shields.io/badge/Git-DAA520?style=plastic&logo=Git&logoColor=000000)
 ![VSCode](https://img.shields.io/badge/VSCode-0000CD?style=plastic&logo=visual-studio-code&logoColor=000000)
+![WebStorm](https://img.shields.io/badge/WebStorm-00FFFF?style=plastic&logo=WebStorm&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-FF4500?style=plastic&logo=Postman&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-6A5ACD?style=plastic&logo=Figma&logoColor=000000)
 
@@ -27,9 +28,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenjka&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.glitch.me/badge?page_id=pechenjka.visitor-badge)
 
 Мои контакты:
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=000000)](https://t.me/lobachevpetr)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=plastic&logo=Gmail&logoColor=FF0000)](mailto:ing.miller.vega@gmail.com)
- 
+
