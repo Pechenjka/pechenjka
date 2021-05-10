@@ -28,7 +28,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenjka&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=pechenjka.visitor-badge)
 
 Мои контакты:
 
