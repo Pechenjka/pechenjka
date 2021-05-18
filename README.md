@@ -2,13 +2,14 @@
 Я начинающий фронтенд-разработчик 🚀. 
 
 * Хочу развиваться во фронтенд-разработке
-* Пишу на React, планирую изучить другие фреймворки, Redux и TypeScript
+* Пишу на React с использованием Redux, планирую изучить другие фреймворки и TypeScript
 * Стараюсь писать чистый код
 
-Стек технологий и инструменты:
+Стек технологий и инструментов:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=000000)
 ![React](https://img.shields.io/badge/React-1E90FF?style=plastic&logo=React&logoColor=000000)
+![Redux](https://img.shields.io/badge/Redux-483D8B?style=plastic&logo=Redux&logoColor=000000)
 ![html5](https://img.shields.io/badge/html5-FF8C00?style=plastic&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-00BFFF?style=plastic&logo=CSS3&logoColor=000000)
 ![Node](https://img.shields.io/badge/Node-228B22?style=plastic&logo=Node.js&logoColor=000000)
@@ -19,7 +20,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0000CD?style=plastic&logo=visual-studio-code&logoColor=000000)
 ![WebStorm](https://img.shields.io/badge/WebStorm-00FFFF?style=plastic&logo=WebStorm&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-FF4500?style=plastic&logo=Postman&logoColor=000000)
-![Figma](https://img.shields.io/badge/Figma-6A5ACD?style=plastic&logo=Figma&logoColor=000000)
+![Figma](https://img.shields.io/badge/Figma-BDB76B?style=plastic&logo=Figma&logoColor=000000)
 
  
 Моя статистика:
