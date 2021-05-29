@@ -12,6 +12,7 @@
 ![Redux](https://img.shields.io/badge/Redux-483D8B?style=plastic&logo=Redux&logoColor=000000)
 ![html5](https://img.shields.io/badge/html5-FF8C00?style=plastic&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-00BFFF?style=plastic&logo=CSS3&logoColor=000000)
+![Sass](https://img.shields.io/badge/Sass-cf649a?style=plastic&logo=Sass&logoColor=000000)
 ![Node](https://img.shields.io/badge/Node-228B22?style=plastic&logo=Node.js&logoColor=000000)
 ![Express](https://img.shields.io/badge/Express-FF0000?style=plastic&logo=Express&logoColor=000000)
 ![NoSQL](https://img.shields.io/badge/NoSQL-0000FF?style=plastic&logoColor=000000)
