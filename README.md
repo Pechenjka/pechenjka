@@ -1,17 +1,16 @@
 ### Всем Привет 👋, меня зовут Петр 😃. 
-Я начинающий фронтенд-разработчик 🚀.
+
+* Я начинающий Front-end разработчик 🚀.
+* Стараюсь писать чистый код
 
 [![](https://www.codewars.com/users/Petr_Lobachev/badges/small)](https://www.codewars.com/users/Petr_Lobachev)
-
-* Хочу развиваться во фронтенд-разработке
-* Пишу на React с использованием Redux, планирую изучить другие фреймворки и TypeScript
-* Стараюсь писать чистый код
 
 Стек технологий и инструментов:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=000000)
-![React](https://img.shields.io/badge/React-1E90FF?style=plastic&logo=React&logoColor=000000)
-![Redux](https://img.shields.io/badge/Redux-483D8B?style=plastic&logo=Redux&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=plastic&logo=TypeScript&logoColor=000000)
+![React](https://img.shields.io/badge/React-61dafb?style=plastic&logo=React&logoColor=000000)
+![Redux-toolkit](https://img.shields.io/badge/Redux-toolkit?style=plastic&logo=Redux&logoColor=000000)
 ![html5](https://img.shields.io/badge/html5-FF8C00?style=plastic&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-00BFFF?style=plastic&logo=CSS3&logoColor=000000)
 ![Sass](https://img.shields.io/badge/Sass-cf649a?style=plastic&logo=Sass&logoColor=000000)
