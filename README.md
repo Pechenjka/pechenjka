@@ -2,8 +2,6 @@
 
 I'm a web developer 🚀.
 
-
-
 My STACK:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=000000)
