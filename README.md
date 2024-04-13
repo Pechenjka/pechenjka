@@ -1,11 +1,10 @@
-### Всем Привет 👋, меня зовут Петр 😃. 
+### Hi 👋, my name is Petr 😃. 
 
-* Я начинающий Front-end разработчик 🚀.
-* Стараюсь писать чистый код
+* I'm a front-end developer 🚀.
 
-[![](https://www.codewars.com/users/Petr_Lobachev/badges/small)](https://www.codewars.com/users/Petr_Lobachev)
 
-Стек технологий и инструментов:
+
+My STACK:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=plastic&logo=TypeScript&logoColor=000000)
@@ -24,15 +23,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF4500?style=plastic&logo=Postman&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-BDB76B?style=plastic&logo=Figma&logoColor=000000)
 
- 
-Моя статистика:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pechenjka&show_icons=true&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pechenjka&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)
 
+[![](https://www.codewars.com/users/Petr_Lobachev/badges/small)](https://www.codewars.com/users/Petr_Lobachev)
 
-Мои контакты:
+
+Contact:
 
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=plastic&logo=Telegram&logoColor=000000)](https://t.me/lobachevpetr)
 [![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=plastic&logo=Gmail&logoColor=FF0000)](mailto:ing.miller.vega@gmail.com)
