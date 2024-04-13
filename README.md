@@ -1,6 +1,6 @@
 ### Hi 👋, my name is Petr 😃. 
 
-* I'm a front-end developer 🚀.
+I'm a web developer 🚀.
 
 
 
