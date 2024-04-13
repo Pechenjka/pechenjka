@@ -2,7 +2,7 @@
 
 I'm a web developer 🚀.
 
-My STACK:
+STACK:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=plastic&logo=JavaScript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=plastic&logo=TypeScript&logoColor=000000)
